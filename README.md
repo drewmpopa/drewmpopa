@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @drewmpopa
+- 👋 Hi, I’m Drew
 - 👀 I’m interested in Game Development, Database Management, and System Optimization
 - 🌱 I’m currently learning Unity, C-Sharp, AWS, and Microsoft Fabric
 - 💞️ I’m looking to collaborate on game jams and neurodivergent friendly applications
