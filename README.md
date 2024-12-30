@@ -2,7 +2,7 @@
 - 👀 I’m interested in Game Development, Database Management, and System Optimization
 - 🌱 I’m currently learning Unity, C-Sharp, AWS, and Microsoft Fabric
 - 💞️ I’m looking to collaborate on game jams and neurodivergent friendly applications
-- 📫 How to reach me: dmpopa@pme.me
+- 📫 How to reach me: dmpopa@pm.me
 - 😄 Pronouns: he/him
 - ⚡ Fun fact:  I like cats and dogs equally (IMPOSSIBLE)
 
