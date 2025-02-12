@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Drew
 - 👀 I’m interested in Game Development, Database Management, and Optimizing Cloud Services
 - 🎓 I'm studying to retake AWS Cloud Practitioner (631/700) and AI Practicioner (655/700) 
-- 🌱 I’m currently learning AWS Unity, C-Sharp, AWS, and Microsoft Fabric
+- 🌱 I’m currently learning Unity, C languages, AWS, Microsoft Fabric, and running LLMs locally
 - 💞️ I’m looking to collaborate on game jams and neurodivergent friendly applications
 - 📫 How to reach me: dmpopa@pm.me
 - 😄 Pronouns: he/him
